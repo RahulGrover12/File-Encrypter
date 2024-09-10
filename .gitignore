@@ -1,0 +1,13 @@
+.idea/
+
+# Maven
+target/
+
+# Compiled class files
+*.class
+
+# Maven logs
+mvn-*.log
+
+# Miscellaneous
+*.DS_Store  # For macOS users
